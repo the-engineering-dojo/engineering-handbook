@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 285" role="img" aria-label="Four learning steps: Foundations, Correctness, Distributed Systems, Operations.">
+<rect width="1200" height="285" rx="28" fill="#101c31"/>
+<text x="48" y="57" fill="#f8fafc" font-size="34" font-family="DejaVu Sans,Arial,sans-serif" font-weight="bold">Your engineering journey</text>
+<text x="49" y="91" fill="#b8c9df" font-size="18" font-family="DejaVu Sans,Arial,sans-serif">Follow a path, reproduce a failure, explain what you learned.</text>
+<g font-family="DejaVu Sans,Arial,sans-serif">
+<rect x="44" y="129" width="249" height="105" rx="16" fill="#234062"/><text x="64" y="163" fill="#93c5fd" font-size="18">01 · THINK</text><text x="64" y="202" fill="#fff" font-size="23" font-weight="bold">Foundations</text>
+<path d="M302 180h26m-11 -11 12 11 -12 11" stroke="#93c5fd" stroke-width="4" fill="none"/>
+<rect x="334" y="129" width="249" height="105" rx="16" fill="#234062"/><text x="355" y="163" fill="#93c5fd" font-size="18">02 · PROVE</text><text x="355" y="202" fill="#fff" font-size="23" font-weight="bold">Correctness</text>
+<path d="M590 180h26m-11 -11 12 11 -12 11" stroke="#93c5fd" stroke-width="4" fill="none"/>
+<rect x="624" y="129" width="249" height="105" rx="16" fill="#234062"/><text x="645" y="163" fill="#93c5fd" font-size="18">03 · CONNECT</text><text x="645" y="202" fill="#fff" font-size="23" font-weight="bold">Distributed</text>
+<path d="M881 180h26m-11 -11 12 11 -12 11" stroke="#93c5fd" stroke-width="4" fill="none"/>
+<rect x="914" y="129" width="242" height="105" rx="16" fill="#234062"/><text x="935" y="163" fill="#93c5fd" font-size="18">04 · OPERATE</text><text x="935" y="202" fill="#fff" font-size="23" font-weight="bold">Cloud-native</text>
+</g></svg>
